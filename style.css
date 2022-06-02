@@ -1,0 +1,30 @@
+.header{
+
+height: 100px;
+}
+.container{
+    block-size: 70px;
+    border: 2px solid rgb(220, 220, 226);
+    padding: 1%;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.objeto{
+    margin: 0 auto;
+}
+input[type="text"] { 
+    height:25px; 
+}
+input[type="button"]{
+    height:30px;
+    background-color: rgb(255, 252, 94);
+}
+a{
+    font-weight: bold;
+    line-height: 200%;
+}
+.w3-sidebar w3-bar-block{
+    border-right: 2px solid rgb(220, 220, 226);
+}
+
